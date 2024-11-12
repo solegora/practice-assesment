@@ -1,0 +1,11 @@
+.candidateCount {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px 20px;
+    height: 60px;
+    position: relative;
+    left: 80%;
+    top: 45px;
+    color: #7C7C80;
+}

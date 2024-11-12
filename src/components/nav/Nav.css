@@ -1,0 +1,17 @@
+/* App.css */
+.nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #343951;
+    padding: 10px 20px;
+    height: 60px;
+}
+
+.logo {
+    color: white;
+    left: 124px;
+    position: relative;
+    font-size: 24px;
+    font-weight: bold;
+}
